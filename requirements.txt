@@ -6,3 +6,4 @@ python-dotenv
 pyjwt
 bcrypt
 python-multipart
+psycopg[binary]

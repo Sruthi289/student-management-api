@@ -94,3 +94,5 @@ The `.env` file is listed in `.gitignore` and is never uploaded.
 - Foreign keys, JOINs and GROUP BY through a real endpoint
 - Password hashing and token-based authentication
 - Keeping secrets out of the code, and deploying from GitHub
+
+**Live demo:** https://student-management-api-s1dt.onrender.com/docs
